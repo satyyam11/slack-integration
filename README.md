@@ -36,25 +36,6 @@ The main objective of this project is to create a Spring Boot application that s
 4. **Use a Tool like Postman:**
    - Use a tool like Postman to send a POST request to `http://localhost:8080/sendSlackMessage` with a JSON payload containing the message you want to send.
 
-## Project Structure
-slack-integration/
-├── src/
-│ ├── main/
-│ │ ├── java/com/example/slackintegration/
-│ │ │ ├── controller/
-│ │ │ │ └── SlackController.java
-│ │ │ ├── service/
-│ │ │ │ └── SlackService.java
-│ │ │ └── SlackIntegrationApplication.java
-│ │ └── resources/
-│ │ ├── application.properties
-│ │ └── application.yml
-│ └── test/
-│ ├── java/com/example/slackintegration/
-│ │ ├── SlackControllerTest.java
-│ │ └── SlackServiceTest.java
-└── README.md
-
 
 ## Testing
 The application includes unit tests and integration tests to ensure functionality.
