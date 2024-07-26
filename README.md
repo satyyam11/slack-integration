@@ -26,7 +26,7 @@ The main objective of this project is to create a Spring Boot application that s
 2. **Test the Application:**
    - You can use these links to test it on my Slack channel:
      - **Slack Channel Link:** [Slack Channel](https://newworkspace-tn09249.slack.com/archives/C07DRHQ5KHC)
-     - **Webhook Link:** [Webhook URL](https://hooks.slack.com/services/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) (Also mentioned in the code)
+     - **Webhook Link:** [Webhook URL](Already mentioned in the code)
 
 3. **Use Your Own Webhook:**
    - Alternatively, you can use your own webhook and run it in your own Slack channel.
