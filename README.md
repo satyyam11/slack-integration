@@ -22,6 +22,7 @@ The main objective of this project is to create a Spring Boot application that s
 ## Running the Application
 1. **Build and Run the Application:**
    - Use Maven to clean, install, and run the application.
+   - Use IDE of your choice preferaably IntelliJ.
 
 2. **Test the Application:**
    - You can use these links to test it on my Slack channel:
@@ -34,9 +35,11 @@ The main objective of this project is to create a Spring Boot application that s
    - Update the `application.properties` or `application.yml` file in the `src/main/resources` directory with your Slack webhook URL.
 
 4. **Use a Tool like Postman:**
-   - Use a tool like Postman to send a POST request to `http://localhost:8080/sendSlackMessage` with a JSON payload containing the message you want to send.
+ - Use a tool like Postman to send a POST request to `http://localhost:8080/sendSlackMessage` with a JSON payload containing the message you want to send.
+   
+5. All the main code files are under `src/main/java/com/example/slackinteg`
 
-
+   
 ## Testing
 The application includes unit tests and integration tests to ensure functionality.
 
