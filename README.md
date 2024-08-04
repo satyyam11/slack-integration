@@ -22,7 +22,7 @@ The main objective of this project is to create a Spring Boot application that s
 ## Running the Application
 1. **Build and Run the Application:**
    - Use Maven to clean, install, and run the application.
-   - Use IDE of your choice preferaably IntelliJ.
+   - Use IDE of your choice preferaably IntelliJ or Eclipse.
 
 2. **Test the Application:**
    - You can use these links to test it on my Slack channel:
