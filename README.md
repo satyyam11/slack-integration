@@ -1,7 +1,7 @@
 # Slack Integration Spring Boot Application
 
 ## Overview
-This project is a Spring Boot application designed to send messages to a Slack channel using Slack's Incoming Webhooks. The application provides a REST endpoint to accept a message and send it to a predefined Slack channel.
+This project is a Spring Boot application designed to send messages to a Slack channel using Slacks Incoming Webhooks. The application provides a REST endpoint to accept a message and send it to a predefined Slack channel.
 
 ## Table of Contents
 - [Objective](#objective)
